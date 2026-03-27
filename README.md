@@ -26,6 +26,7 @@ vibe-coding-path/
 │   └── crypto-tracker/       # Dự án theo dõi thị trường Crypto (Dự kiến)
 ├── .gitignore                # Quản lý các file rác hệ thống
 └── README.md                 # Tài liệu hướng dẫn này
+```
 🛠️ Công cụ sử dụng (Tech Stack)
 AI Editor: Cursor (Model: Claude 3.5 Sonnet & GPT-4o)
 
@@ -36,9 +37,9 @@ Automation Library: os, shutil, watchdog (dự kiến)
 Environment: Windows Terminal & PowerShell
 
 📝 Nhật ký tiến độ
-[x] Module 1: Hoàn thành tư duy Vibe Coding & Công cụ.
+* [x] Module 1: Hoàn thành tư duy Vibe Coding & Công cụ.
 
-[x] Exercise P05: Xây dựng thành công CLI Script sắp xếp file tự động.
+* [x] Exercise P05: Xây dựng thành công CLI Script sắp xếp file tự động.
 
 [ ] Module 2: Bắt đầu xây dựng SaaS Prototyping với Next.js & Tailwind.
 
