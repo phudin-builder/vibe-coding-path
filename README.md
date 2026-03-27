@@ -46,7 +46,7 @@ Environment: Windows Terminal & PowerShell
 
 📩 Kết nối với tôi
 
-Họ tên: Đinh Tiến Phú (Phu)
+Họ tên: Đinh Tiến Phú (Phudin)
 
 Lĩnh vực: AI Engineering | Data Analytics | Crypto Analysis
 
