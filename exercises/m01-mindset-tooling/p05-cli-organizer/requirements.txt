@@ -1,0 +1,10 @@
+# This project currently uses only Python standard library modules:
+# - os
+# - shutil
+#
+# So there are no third-party dependencies required at this time.
+#
+# If you add external packages later, list them below, for example:
+# requests==2.32.3
+# python-dotenv==1.0.1
+
