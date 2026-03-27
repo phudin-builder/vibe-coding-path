@@ -40,11 +40,12 @@ Environment: Windows Terminal & PowerShell
 
 - Module 1: Hoàn thành tư duy Vibe Coding & Công cụ.
    - [x] Exercise P05: Xây dựng thành công CLI Script sắp xếp file tự động.
-   
+
 - Module 2: Rapid SaaS Prototyping with Modern Frameworks
    - [ ] Exercise P06: Building a Landing Page
 
 📩 Kết nối với tôi
+
 Họ tên: Đinh Tiến Phú (Phu)
 
 Lĩnh vực: AI Engineering | Data Analytics | Crypto Analysis
